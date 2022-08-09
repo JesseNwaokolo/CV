@@ -18,7 +18,7 @@ h3{
     color: #66bfbf;
 }
 
-@media only screen (max-width:768px){
+@media only screen and (max-width:768px){
     .table{
         width:100vw;
     }
