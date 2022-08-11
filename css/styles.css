@@ -17,10 +17,3 @@ h1{
 h3{
     color: #66bfbf;
 }
-
-@media (max-width:768px){
-    .table{
-        width:100vw;
-        box-sizing:border-box;
-    }
-}
