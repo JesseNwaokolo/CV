@@ -18,8 +18,9 @@ h3{
     color: #66bfbf;
 }
 
-@media only screen and (max-width:768px){
+@media (max-width:768px){
     .table{
         width:100vw;
+        box-sizing:border-box;
     }
 }
